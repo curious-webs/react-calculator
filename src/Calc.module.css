@@ -1,0 +1,19 @@
+.calcWrap {
+  width: 300px;
+}
+.cutomBtn {
+  width: 73px;
+  /* border: 1px solid #ccc !important; */
+  margin-bottom: 2px;
+}
+.red {
+  background: #f00 !important;
+  border-color: #f00 !important;
+}
+.result {
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
